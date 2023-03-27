@@ -1,0 +1,1 @@
+# azuregame-static
